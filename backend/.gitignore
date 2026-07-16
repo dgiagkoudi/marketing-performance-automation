@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.Python
+build/
+develop-eggs/
+dist/
+
+.pyre/
+.pytype/
+
+.env
+*.db
+test_slack.py
